@@ -1,16 +1,15 @@
 <h1 align="center">
-  Hello, everybody!
+  Hello, everybody! I am Vladyslav Titorov. 
 </h1>
 <h2 align="center">
-  I am Vladyslav Titorov. 
   I am a Full stack & Blockchain developer!
 </h2>
 
 <div align="center">
-  <img src="https://github.com/VladyslavTitorov/VladyslavTitorov/divider1.png" alt="divider"/>
+  <img src="https://github.com/VladyslavTitorov/VladyslavTitorov/blob/main/divider1.png" alt="divider"/>
 </div>
 
-<h3 align="center"><img src="https://github.com/VladyslavTitorov/VladyslavTitorov/code.gif" height="20"/> My skill set</h3>
+<h3 align="center"><img src="https://github.com/VladyslavTitorov/VladyslavTitorov/blob/main/code.gif" height="20"/> My skill set</h3>
 
 <div align="center" style="witdh:100%"> 
   <table>

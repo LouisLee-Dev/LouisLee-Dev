@@ -24,12 +24,15 @@ MongoDB, MySQL, PostgreSQL, Firebase
 ## Education
 ### Hong Kong Unversity of Science Technology
 2009-2103 GPA 3.7/4
+
 Bachelor's Degree in Computer Science
 ## Certifications
 *software engineer role*
 https://www.hackerrank.com/certificates/c78985ec417d
+
 *react frontend developer role*
 https://www.hackerrank.com/certificates/be4532d81509
+
 *node backend developer role*
 https://www.hackerrank.com/certificates/cf8ce434b549
 ## Let's connect

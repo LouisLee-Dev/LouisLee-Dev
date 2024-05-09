@@ -23,8 +23,10 @@ MongoDB, MySQL, PostgreSQL, Firebase
 
 ## Education
 ### Hong Kong Unversity of Science Technology
-2009-2103 
+2009-2013
+
 GPA 3.7/4
+
 Bachelor's Degree in Computer Science
 ## Certifications
 *software engineer role*

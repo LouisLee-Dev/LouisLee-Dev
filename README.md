@@ -40,13 +40,9 @@ https://www.hackerrank.com/certificates/cf8ce434b549
 ## Let's connect
 Linkedin: https://www.linkedin.com/in/louis-lee-39b085300
 
-Twitter: https://twitter.com/LouisLee1112
-
 Email: louislee0996@gmail.com
 
 Telegram: https://t.me/LouisLee1112
-
-Portpolio: https://about-me-6s8p.onrender.com
 
 If you have any idea and don't know the way to kick start, please contact me!
 Let's build something great together!
